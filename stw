@@ -5,8 +5,8 @@ T.H.C Team🇮🇷
 "
 echo " 
                  ##############################
-                 #     ☣️  T.H.C Team ⚛️      #
-                 #        ☢️  Aliza           #
+                 #     ☣️  T.H.C Team ⚛️        #
+                 #        ☢️  Aliza            #
                  ##############################"
 apt-get update
 apt-get install play-audio
