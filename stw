@@ -12,4 +12,3 @@ apt-get update
 apt-get install play-audio
 echo " installed audio player ...√"
 play-audio nari.mp3 | telnet towel.blinkenlights.nl
-echo "Thank You For See❤️"
