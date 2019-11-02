@@ -1,15 +1,14 @@
-#!bin/bash
+#~/../usr/bin/bash
 echo " 
-Create By Aliza 
-T.H.C Team🇮🇷
+Nooooooo😂😂😂
 "
 echo " 
                  ##############################
-                 #     ☣️  T.H.C Team ⚛️        #
+                 #     ☣️  lmao xD   ⚛️        #
                  #        ☢️  Aliza            #
-                 ##############################"
-apt-get update
-apt-get install play-audio
+                 ##############################";
+apt update
+apt install play-audio
 echo " installed audio player ...√"
 play-audio nari.mp3 |telnet towel.blinkenlights.nl; 
-echo "Thank you For See❤️"
+echo "Thank you For See ❤️"
