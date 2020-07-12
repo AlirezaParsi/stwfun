@@ -1,5 +1,5 @@
 # stwfun
-Bash Script (: Play Nari Nari And Stars War
+Bash Script (: Play Nari Nari And Star Wars
 installing 
 =
 git clone https://github.com/aliza-ada/stwfun
